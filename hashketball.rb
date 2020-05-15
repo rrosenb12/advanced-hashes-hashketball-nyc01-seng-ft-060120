@@ -170,6 +170,7 @@ def player_numbers(number_input)
       team_info.each do |key, value|
         if key == :players
           value.each do |player|
+          end
         end
       end
     end
