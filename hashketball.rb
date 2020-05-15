@@ -179,5 +179,5 @@ def player_numbers(number_input)
   return team_numbers
 end
 
-def player_stats
+def player_stats(player_input)
 end
