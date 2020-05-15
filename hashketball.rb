@@ -169,7 +169,7 @@ def player_numbers(number_input)
     if team_info[:team_name] == number_input
       team_info.each do |key, value|
         if key == :players
-
+          value.each do |player|
         end
       end
     end
