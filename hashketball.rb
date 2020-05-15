@@ -130,6 +130,6 @@ end
 
 # Write code here
 def num_points_scored(player_search)
-  game_hash.find do |players|
+  game_hash.find do |team, |
   end
 end
