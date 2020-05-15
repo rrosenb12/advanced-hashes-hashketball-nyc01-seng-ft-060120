@@ -163,4 +163,4 @@ def team_names
   end
 end
 
-def player_numbers(numer_input)
+def player_numbers(number_input)
