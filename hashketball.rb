@@ -180,4 +180,9 @@ def player_numbers(number_input)
 end
 
 def player_stats(player_input)
+  game_hash.each do |team, team_info|
+    team_info.each do |key, value|
+      
+    end
+  end
 end
