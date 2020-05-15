@@ -132,5 +132,5 @@ end
 def num_points_scored
   game_hash.find do |players|
   end
-      binding.pry
+  binding.pry
 end
