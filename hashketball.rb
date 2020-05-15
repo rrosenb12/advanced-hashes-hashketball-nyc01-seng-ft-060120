@@ -178,3 +178,6 @@ def player_numbers(number_input)
   end
   return team_numbers
 end
+
+def player_stats
+end
