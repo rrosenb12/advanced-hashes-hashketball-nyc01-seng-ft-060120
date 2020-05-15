@@ -162,3 +162,5 @@ def team_names
     team_info[:team_name]
   end
 end
+
+def player_numbers(numer_input)
