@@ -176,4 +176,5 @@ def player_numbers(number_input)
       end
     end
   end
+  return team_numbers
 end
